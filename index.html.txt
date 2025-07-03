@@ -1,0 +1,17 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mi Estudio de Juegos</title>
+  <meta charset="UTF-8">
+  <style>
+    body { font-family: sans-serif; text-align: center; padding: 2rem; }
+    h1 { color: #4CAF50; }
+  </style>
+</head>
+<body>
+  <h1>¡Bienvenido a Mi Estudio de Juegos!</h1>
+  <p>Estamos desarrollando experiencias móviles increíbles.</p>
+  <p>Síguenos en redes y descarga nuestros juegos muy pronto.</p>
+</body>
+</html>
